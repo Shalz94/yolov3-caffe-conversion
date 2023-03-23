@@ -119,4 +119,9 @@ Each layer folder consists of a cpp, cu and hpp file
 ```sh
 $ python darknet2caffe.py cfg/yolov3-416.cfg cfg/yolov3-416.weights yolov3-416.prototxt yolov3-416.caffemodel
 ```
-Here the yolov3-416.cfg and yolov3-416.weights are taken from darknet repo.
+Here the yolov3-416.cfg and yolov3-416.weights are taken from darknet repo
+
+#### 7. Links
+[Caffe installation] (https://gist.github.com/nikitametha/c54e1abecff7ab53896270509da80215/forks)
+
+[caffe layers modification] (https://github.com/ChenYingpeng/darknet2caffe)
